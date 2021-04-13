@@ -10,4 +10,4 @@ Made by
 
 Database Name : spotify
 
-DB available inside this repo to import and Test
+DB available inside this report to import and Test
